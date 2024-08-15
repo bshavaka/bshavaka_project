@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ffmobileclintcode-dev-2171c-authRole",
+      "UnauthRoleArn": "arn:aws:iam::849430769246:role/amplify-ffmobileclintcode-dev-2171c-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::849430769246:role/amplify-ffmobileclintcode-dev-2171c-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-ffmobileclintcode-dev-2171c-deployment",
+      "UnauthRoleName": "amplify-ffmobileclintcode-dev-2171c-unauthRole",
+      "StackName": "amplify-ffmobileclintcode-dev-2171c",
+      "StackId": "arn:aws:cloudformation:us-east-2:849430769246:stack/amplify-ffmobileclintcode-dev-2171c/fa62f7f0-56a4-11ef-a4e4-02289a1cbf01",
+      "AmplifyAppId": "ddnt5tnk9ibxe"
+    },
+    "categories": {
+      "auth": {
+        "ffmobileclintcode3c0d84d3": {}
+      }
+    }
+  }
+}

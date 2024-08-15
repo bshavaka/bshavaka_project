@@ -1,0 +1,14 @@
+{
+  "resourceName": "FanFindrMobileProfilePics",
+  "policyUUID": "1b157dc2",
+  "bucketName": "fanfindrmobile9f4d16d45d3a4332872409568846bab3",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "S3Triggerf7509c7d",
+  "groupAccess": {}
+}

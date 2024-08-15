@@ -1,0 +1,32 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-fanfindrmobile-dev-154852-authRole",
+      "UnauthRoleArn": "arn:aws:iam::849430769246:role/amplify-fanfindrmobile-dev-154852-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::849430769246:role/amplify-fanfindrmobile-dev-154852-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-fanfindrmobile-dev-154852-deployment",
+      "UnauthRoleName": "amplify-fanfindrmobile-dev-154852-unauthRole",
+      "StackName": "amplify-fanfindrmobile-dev-154852",
+      "StackId": "arn:aws:cloudformation:us-east-2:849430769246:stack/amplify-fanfindrmobile-dev-154852/58f6f190-6d3f-11ee-876a-0ae870b7b3af",
+      "AmplifyAppId": "d1o4o8uj8p0z1z"
+    },
+    "categories": {
+      "auth": {
+        "fanfindrmobile42268800": {}
+      },
+      "api": {
+        "fanfindrmobile": {}
+      },
+      "function": {
+        "S3Triggerf7509c7d": {
+          "deploymentBucketName": "amplify-fanfindrmobile-dev-154852-deployment",
+          "s3Key": "amplify-builds/S3Triggerf7509c7d-50782b4f64515237747a-build.zip"
+        }
+      },
+      "storage": {
+        "FanFindrMobileProfilePics": {}
+      }
+    }
+  }
+}
